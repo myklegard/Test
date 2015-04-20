@@ -1,0 +1,42 @@
+.mainImage {
+    width: 100%;
+    float: middle;
+}
+
+#exploreva-content div.mainblock {
+    margin: 0;
+}
+
+.headline {
+    background-image: url("FirstImage.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position-y: -192px;
+    min-height: 300px;
+}
+
+.intro b,
+.intro i {
+    background-color: white;
+    padding: 7px;
+}
+
+#slash-data #exploreva-content .mainblock .intro {
+    padding-top: 135px;
+}
+
+#slash-data #exploreva-content div.mainblock .intro p {
+    padding-bottom: 0;
+}
+
+.headline .logo {
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    background-color: black;
+    margin: -15px -10px;
+    border: 5px solid white;
+    background-image: url("logo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
